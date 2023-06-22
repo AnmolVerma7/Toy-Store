@@ -24,7 +24,3 @@ Please refer to the codebase for more detailed information about how each class 
 ## Running the Program
 
 To run the program, simply navigate to the directory where the code is stored and run the `AppDriver` class, which contains the main method. Ensure that the `toys.txt` file is in the appropriate location as per the path specified in the `AppManager` class.
-
-## Note
-
-This is a basic version of the application and is not meant for commercial use. It is primarily intended as a learning tool for understanding object-oriented programming and file handling in Java.
